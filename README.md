@@ -10,10 +10,15 @@ To write a program to predict the price of the house and number of occupants in 
 ## Algorithm
 
 1.1.Import the required packages and print the present data.
+
 2.Print the placement data and salary data.
+
 3.Find the null and duplicate values.
+
 4.Using logistic regression find the predicted values of accuracy , confusion matrices.
+
 5.Display the results.
+
 ## Program:
 ```
 
